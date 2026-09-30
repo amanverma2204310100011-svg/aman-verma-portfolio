@@ -12,7 +12,7 @@ const skills = [
   "React.js", "Next.js", "TypeScript", "JavaScript", "Tailwind CSS",
   "Node.js", "Express.js", "NestJS", "Laravel", "PHP",
   "PostgreSQL", "MongoDB", "SQL Server", "Prisma", "REST APIs", "JWT"
-];gh --version
+];
 
 const projects = [
   {
