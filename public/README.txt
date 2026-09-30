@@ -1,0 +1,1 @@
+Put your resume as public/resume.pdf and your profile/project images inside public/images/.
